@@ -1,0 +1,69 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 15:09:01
+Missões concluídas: 0 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: Academia Next Level
+Tipo: Academia
+Descrição: : Academia especializada em musculação, condicionamento físico e qualidade de vida, com acompanhamento profissional e preços acessíveis
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[ ] 🎭 Persona
+    → Pedro, 22 anos, estudante, deseja ganhar massa muscular e melhorar sua saúde. Procura uma academia acessível, com bons equipamentos e acompanhamento profissional.
+
+[ ] 🎯 Objetivo SMART
+    → Aumentar em 20% o número de matrículas na academia nos próximos 90 dias por meio de conteúdos nas redes sociais e campanhas promocionais.
+
+[ ] 🗺️ Jornada do Consumidor
+    → Descoberta: O cliente encontra vídeos da academia no Instagram.    Consideração: Pesquisa mensalidades, equipamentos e benefícios.    Decisão: Realiza sua matrícula após conhecer a academia.
+
+[ ] 💡 Tópicos de Conteúdo
+    → Dicas de musculação.    Alimentação saudável.    Benefícios das atividades físicas.    Exercícios para iniciantes.    Prevenção de lesões durante os treinos.
+
+[ ] ✍️ Conteúdo (publicação)
+    → Melhore sua saúde, desenvolva sua força e conquiste seus objetivos com acompanhamento profissional e equipamentos de qualidade.  Nossa academia oferece um ambiente preparado para receber desde iniciantes até atletas experientes  Faça sua matrícula e comece sua evolução hoje mesmo
+
+[ ] 📢 Distribuição
+    → Canal	Estratégia Instagram	Divulgação de treinos e promoções. TikTok	Vídeos curtos com dicas de exercícios. WhatsApp	Divulgação de planos e atendimento aos clientes.
+
+[ ] 🎯 Personalização
+    → Iniciantes: Comece sua jornada fitness com orientação profissional e exercícios adequados ao seu nível.  Experientes: Supere seus limites com equipamentos de qualidade e treinos personalizados
+
+[ ] 🔍 SEO
+    → Título: Academia Next Level | Musculação e qualidade de vida  Palavra-chave: Academia de musculação.  Descrição: Conheça a Academia Next Level e conquiste seus objetivos com equipamentos de qualidade, acompanhamento profissional e planos acessíveis
+
+[ ] ❤️ Engajamento
+    → Qual é seu principal objetivo na academia? Ganhar massa muscular, emagrecer ou melhorar sua saúde? Comente e marque seu parceiro de treino
+
+[ ] 🔄 Iteração
+    → Analisar semanalmente as curtidas, comentários, visualizações, compartilhamentos e novas matrículas para identificar os conteúdos mais eficientes e melhorar as próximas publicações
+
+[ ] 🚀 Tendências
+    → Produção de vídeos curtos mostrando exercícios, desafios fitness, evolução dos alunos e dicas de musculação
+
+[ ] 🕵️ Concorrência
+    → Concorrente: Smart Fit.  Pontos fortes: Reconhecimento da marca, variedade de equipamentos e planos acessíveis.  Diferencial da Next Level: Atendimento personalizado e maior proximidade entre profissionais e alunos
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: Academia Next Level | Musculação e qualidade de vida
+URL amigável: https://seusite.com.br/academia-next-level-musculacao
+Meta description: Conheça a Academia Next Level e conquiste seus objetivos com equipamentos de qualidade, acompanhamento profissional e planos acessíveis.
+Corpo do conteúdo:
+# Transforme sua rotina com a Academia Next Level!
+
+Melhore sua saúde, desenvolva sua força e conquiste seus objetivos com acompanhamento profissional e equipamentos de qualidade.
+
+Nossa academia oferece um ambiente preparado para receber desde iniciantes até atletas experientes.
+
+Faça sua matrícula e comece sua evolução hoje mesmo!
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
